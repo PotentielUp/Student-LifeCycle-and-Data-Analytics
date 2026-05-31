@@ -57,12 +57,12 @@ Le système a été structuré en trois étapes clés :
 ---
 
 ## 🖼️ Aperçu du Système
-*(Conseil : Insère ici une capture d'écran de ton Dashboard d'analyse ou de ta structure de base de données)*
+*On va afficher une capture du dashbord ici*
 `![Data Dashboard](assets/dashboard-preview.png)`
 
 ---
 
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
-- **LinkedIn :** [Ton lien]
-- **Email :** [Ton email]
+
+- **Email :** [efficiencypot@gmail.com]
