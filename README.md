@@ -58,7 +58,7 @@ Le système a été structuré en trois étapes clés :
 
 ## 🖼️ Aperçu du Système
 *On va afficher une capture du dashbord ici*
-`![Data Dashboard](assets/dashboard-preview.png)`
+`![Data Dashboard](images/projet2.png)`
 
 ---
 
