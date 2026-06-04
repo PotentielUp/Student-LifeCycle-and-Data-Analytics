@@ -60,7 +60,7 @@ Le système a été structuré en trois étapes clés :
 
 | Indicateur | Avant l'automatisation  |Après l'automatisation |
 | :--- | :--- | :--- |
-| Suppression des tâches chronophages et erreurs humaines. | Conception de bases de données sur-mesure pour le suivi client. | Implémentation d'IA génératives pour automatiser la création de contenu et l'analyse. |
+| Saisie des données |  Manuelle & Chronophage | 100% Automatisée |
 | Mapping de workflows complexes. | Centralisation des informations & Pipelines de vente. | Développement d'agents intelligents & Chatbots spécialisés. |
 
 ---
