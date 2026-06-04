@@ -51,7 +51,6 @@ Le système a été structuré en trois étapes clés :
 | Indicateur | Avant l'automatisation | Après l'automatisation |
 
 | :--- | :--- | :--- |
-
 |Saisie des données | Manuelle & Chronophage |100% Automatisée |
 | Fiabilité des données | Risque d'erreurs humaines | Précision absolue|
 | Analyse stratégique| Intuition / Estimation | Décisions basées sur des données réelles|
