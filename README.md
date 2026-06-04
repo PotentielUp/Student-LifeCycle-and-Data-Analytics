@@ -48,7 +48,7 @@ Le système a été structuré en trois étapes clés :
 ---
 
 ## 🚀 Impact & Valeur Ajoutée
-| Indicateur | Avant l'automatisation | Après l'automatisation |
+| 🚀 Indicateur | 🥶 Avant l'automatisation | 🦾 Après l'automatisation |
 | :--- | :--- | :--- |
 | Saisie des données | Manuelle & Chronophage |100% Automatisée |
 | Fiabilité des données | Risque d'erreurs humaines | Précision absolue|
