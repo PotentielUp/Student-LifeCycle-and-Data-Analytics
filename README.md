@@ -62,6 +62,8 @@ Le système a été structuré en trois étapes clés :
 | :--- | :--- | :--- |
 | Saisie des données |  Manuelle & Chronophage | 100% Automatisée |
 | Mapping de workflows complexes. | Centralisation des informations & Pipelines de vente. | Développement d'agents intelligents & Chatbots spécialisés. |
+|prem | deux |trois|
+|prem2|deux2|trois2|
 
 ---
 
@@ -77,4 +79,4 @@ Je vous aide à transformer vos données brutes en leviers de croissance pour vo
 
 - **Email :** [efficiencypot@gmail.com]
 
-[![Retour vers la page principale](https://img.shields.io/badge/Page principale style=for-the-badge)](  https://potentielup.github.io/PotentielUp-Automation/)
+
