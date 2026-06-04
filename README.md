@@ -55,6 +55,14 @@ Le système a été structuré en trois étapes clés :
 | **Analyse stratégique** | Intuition / Estimation | **Décisions basées sur des données réelles** |
 | **Optimisation de l'offre** | Offre statique | **Offre ajustée selon la demande réelle** |
 
+### test
+## 🛠️ Domaines d'Expertise
+
+| ⚙️ Automation | 🗄️ Custom CRM | 🤖 AI Integration |
+| :--- | :--- | :--- |
+| Suppression des tâches chronophages et erreurs humaines. | Conception de bases de données sur-mesure pour le suivi client. | Implémentation d'IA génératives pour automatiser la création de contenu et l'analyse. |
+| Mapping de workflows complexes. | Centralisation des informations & Pipelines de vente. | Développement d'agents intelligents & Chatbots spécialisés. |
+
 ---
 
 ## 🖼️ Aperçu du Système
