@@ -48,8 +48,8 @@ Le système a été structuré en trois étapes clés :
 ---
 
 ## 🚀 Impact & Valeur Ajoutée
-| 🚀 Indicateur | 🥶 Avant l'automatisation | 🦾 Après l'automatisation |
 | :--- | :--- | :--- |
+| 🚀 Indicateur | 🥶 Avant l'automatisation | 🦾 Après l'automatisation |
 | Saisie des données | Manuelle & Chronophage |100% Automatisée |
 | Fiabilité des données | Risque d'erreurs humaines | Précision absolue|
 | Analyse stratégique| Intuition / Estimation | Décisions basées sur des données réelles|
@@ -58,7 +58,7 @@ Le système a été structuré en trois étapes clés :
 ### test
 ## 🛠️ Domaines d'Expertise
 
-| ⚙️ Automation | 🗄️ Custom CRM | 🤖 AI Integration |
+| Indicat | 🗄️ Custom CRM | 🤖 AI Integration |
 | :--- | :--- | :--- |
 | Suppression des tâches chronophages et erreurs humaines. | Conception de bases de données sur-mesure pour le suivi client. | Implémentation d'IA génératives pour automatiser la création de contenu et l'analyse. |
 | Mapping de workflows complexes. | Centralisation des informations & Pipelines de vente. | Développement d'agents intelligents & Chatbots spécialisés. |
