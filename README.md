@@ -65,7 +65,7 @@ Le système a été structuré en trois étapes clés :
 
 ---
 
-*Extrait base de donnees*
+*Extrait base de donnees :*
 
 '![Data Table](images/projet22.png)'
 
