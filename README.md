@@ -67,7 +67,7 @@ Le système a été structuré en trois étapes clés :
 
 *Extrait base de donnees*
 
-'![Data Table](images/projet2221.png)'
+'![Data Table](images/projet22.png)'
 
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
