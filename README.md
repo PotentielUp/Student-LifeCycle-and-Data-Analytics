@@ -61,9 +61,13 @@ Le système a été structuré en trois étapes clés :
 ## 🖼️ Aperçu du Système
 *Dashbord :*
 
-'![Data Dashboard](images/projet2.png)'
+'![Data Dashboard](images/projet2221.png)'
 
 ---
+
+*Extrait base de donnees*
+
+'![Data Table](images/projet2221.png)'
 
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
