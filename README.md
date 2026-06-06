@@ -40,10 +40,10 @@ Le système a été structuré en trois étapes clés :
 ---
 
 ## 🛠️ Stack Technique
-- **Capture de données :** [Tally / Google Forms / Typeform]
-- **Automatisation :** [Make.com / Zapier]
-- **Gestion de données & CRM :** [Airtable / Notion]
-- **Analyse & Visualisation :** [Airtable Interfaces / Google Data Studio / Looker]
+- **Capture de données :** [Airtable Forms]
+- **Automatisation :** [Make.com]
+- **Gestion de données & CRM :** [Airtable]
+- **Analyse & Visualisation :** [Airtable Interfaces]
 
 ---
 
