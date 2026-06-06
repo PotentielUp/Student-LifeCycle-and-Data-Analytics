@@ -22,13 +22,13 @@ Le système a été structuré en trois étapes clés :
 
 1. **Automatisation de l'Intake (Entrée) :**
    - Mise en place d'un formulaire d'inscription intelligent.
-   - **Flux :** `Formulaire` ➔ `Automatisation (Make/Zapier)` ➔ `Base de données`.
-   - Résultat : Zéro intervention humaine pour l'enregistrement des apprenants.
+   - **Flux :** `Formulaire` ➔ `Automatisation (Make)` ➔ `Base de données`.
+   - Résultat : Enregistrement automatique des apprenants après remplissage du formulaire.
 
 2. **Centralisation & Structuration :**
    - Création d'une base de données relationnelle organisée par :
      - *Profils Apprenants* (Coordonnées, background, objectifs).
-     - *Catalogue de Formations* (Prix, durée, niveau).
+     - *Catalogue de Formations* (Description, prix, durée).
      - *Inscriptions* (Lien entre l'apprenant et la formation choisie).
 
 3. **Module d'Analyse (Business Intelligence) :**
