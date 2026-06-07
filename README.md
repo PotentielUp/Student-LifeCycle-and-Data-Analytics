@@ -62,7 +62,7 @@ Le système a été structuré en trois étapes clés :
 
 *Extrait base de donnees :*
 
-![Data Table](images/projet22.png)
+![Data Table](images/extraitbasezo.png)
 
 ---
 
@@ -71,7 +71,7 @@ Le système a été structuré en trois étapes clés :
 ![Data Dashboard](images/Dashgood1.png)
 
 ---
-![Data Dashboard](images/Dashgood2.png)
+![Data Dashboard](images/beautyfor2.png)
 
 ---
 ![Data Dashboard](images/Dashgood3.png)
