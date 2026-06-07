@@ -59,19 +59,33 @@ Le système a été structuré en trois étapes clés :
 ---
 
 ## 🖼️ Aperçu du Système
-*Dashbord :*
-
-![Data Dashboard](images/projet2221.png)
-
----
 
 *Extrait base de donnees :*
 
 ![Data Table](images/projet22.png)
 
+---
+
+*Dashbord :*
+
+![Data Dashboard](images/Dashgood1.png)
+
+---
+![Data Dashboard](images/Dashgood2.png)
+
+---
+![Data Dashboard](images/Dashgood3.png)
+
+---
+*Workflow*
+
+![Data Dashboard](images/Workfloww.png)
+
+---
+
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
 
-- **Email :** [efficiencypot@gmail.com]
+
 
 
