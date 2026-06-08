@@ -65,12 +65,16 @@ Le système a été structuré en trois étapes clés :
 
 ---
 
-## Cartographie du processus
+## Cartographie du processus:
+
+*Process map*
+
+![Data ProcessMap](images/Processcarto.png)
 
 ---
 ## 🖼️ Aperçu du Système
 
-*Extrait base de donnees :*
+*Data base (extrait de base de données):*
 
 ![Data Table](images/extraitbasezo.png)
 
