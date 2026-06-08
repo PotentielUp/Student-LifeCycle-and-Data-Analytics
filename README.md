@@ -41,7 +41,7 @@ Le système a été structuré en trois étapes clés :
 4. **Module d'Analyse (Business Intelligence) :**
    - Création de tableaux de bord (Dashboards) permettant de visualiser en temps réel :
      - **Le classement des formations les plus demandées.**
-     - **La segmentation par tranches d'age des apprenants.**
+     - **La segmentation par tranches d'âge des apprenants.**
      - **Le taux de remplissage des sessions de formation.**
 
 ---
