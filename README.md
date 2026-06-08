@@ -1,5 +1,5 @@
 
- 🎓 Student Lifecycle & Data Analytics : Optimisation du Flux d'Inscription
+ 🎓 Student Lifecycle & Data Analytics : Optimisation du Flux d'Inscription et organisation
 
 ## 🎯 Objectif du Projet
 Automatiser l'intégralité du processus d'inscription des apprenants pour une entreprise de formation, tout en transformant les données collectées en outils de décision stratégique (Business Intelligence).
@@ -97,7 +97,7 @@ Le système a été structuré en trois étapes clés :
 
 ---
 
-[![Faites un tour sur notre portfolio ](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)]( https://potentielup.github.io/Plateforme-d-aide-a-l-apprentissage/)
+[![Faites un tour sur notre portfolio ]( https://potentielup.github.io/PotentielUp-Automation/)
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
 
