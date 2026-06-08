@@ -31,14 +31,14 @@ Le système a été structuré en trois étapes clés :
    - Résultat : Envoi automatique du mail d'onbording, ajout des donnes dans les tables requises, mises a jour des statuts "conditions", envoi automatique d'un mail de fin de formation.  
     
 
-2. **Centralisation & Structuration :**
+3. **Centralisation & Structuration :**
    - Création d'une base de données relationnelle organisée par :     
      - *Demandes* (Coordonnées et profil des demandeurs).
      - *Catalogue de Formations* (Description, prix, durée).
      - *Inscriptions* (Lien entre l'apprenant et la formation choisie).
      - *Anciens étudiants* (Informations et appréciations des apprenants ayant terminé leurs formations)
 
-3. **Module d'Analyse (Business Intelligence) :**
+4. **Module d'Analyse (Business Intelligence) :**
    - Création de tableaux de bord (Dashboards) permettant de visualiser en temps réel :
      - **Le classement des formations les plus demandées.**
      - **La segmentation par tranches d'age des apprenants.**
