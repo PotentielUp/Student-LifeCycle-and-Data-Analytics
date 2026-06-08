@@ -48,7 +48,7 @@ Le système a été structuré en trois étapes clés :
 
 ## 🛠️ Stack Technique
 - **Capture de données :** [Airtable Forms]
-- **Automatisation :** [Make.com]
+- **Automatisation :** [Make.com/Airtable Automation]
 - **Gestion de données & CRM :** [Airtable]
 - **Analyse & Visualisation :** [Airtable Interfaces]
 
@@ -65,6 +65,9 @@ Le système a été structuré en trois étapes clés :
 
 ---
 
+## Cartographie du processus
+
+---
 ## 🖼️ Aperçu du Système
 
 *Extrait base de donnees :*
