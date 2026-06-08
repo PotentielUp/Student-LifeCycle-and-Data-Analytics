@@ -97,6 +97,7 @@ Le système a été structuré en trois étapes clés :
 
 ---
 
+[![Faites un tour sur notre portfolio ](https://img.shields.io/badge/Voir_le_projet-blue?style=for-the-badge)]( https://potentielup.github.io/Plateforme-d-aide-a-l-apprentissage/)
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
 
