@@ -93,7 +93,7 @@ Le système a été structuré en trois étapes clés :
 ---
 *Workflow*
 
-![Data Dashboard](images/Workflowww.png)
+![Data Dashboard](images/workflowww.png)
 
 ---
 
