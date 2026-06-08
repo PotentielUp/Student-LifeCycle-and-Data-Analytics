@@ -22,19 +22,26 @@ Le système a été structuré en trois étapes clés :
 
 1. **Automatisation de l'Intake (Entrée) :**
    - Mise en place d'un formulaire d'inscription intelligent.
-   - **Flux :** `Formulaire` ➔ `Automatisation (Make)` ➔ `Base de données`.
-   - Résultat : Enregistrement automatique des apprenants après remplissage du formulaire.
+   - **Flux :** `Formulaire` ➔ `Base de données`.
+   - Résultat : Enregistrement automatique des demandes après remplissage du formulaire.
+
+2. **Automatisatin du LifeCycle :**
+   - Automatisation de l'onboarding et de l'organisation des donnees
+   - **Flux :** `Base de données` ➔ `Automatisation (Aitable Automation/Make)` ➔ `Base de données`
+   - Résultat : Envoi automatique du mail d'onbording, ajout des donnes dans les tables requises, mises a jour des statuts "conditions", envoi automatique d'un mail de fin de formation.  
+    
 
 2. **Centralisation & Structuration :**
-   - Création d'une base de données relationnelle organisée par :
-     - *Profils Apprenants* (Coordonnées, background, objectifs).
+   - Création d'une base de données relationnelle organisée par :     
+     - *Demandes* (Coordonnées et profil des demandeurs).
      - *Catalogue de Formations* (Description, prix, durée).
      - *Inscriptions* (Lien entre l'apprenant et la formation choisie).
+     - *Anciens étudiants* (Informations et appréciations des apprenants ayant terminé leurs formations)
 
 3. **Module d'Analyse (Business Intelligence) :**
    - Création de tableaux de bord (Dashboards) permettant de visualiser en temps réel :
-     - **Le Top 3 des formations les plus demandées.**
-     - **La segmentation démographique des apprenants.**
+     - **Le classement des formations les plus demandées.**
+     - **La segmentation par tranches d'age des apprenants.**
      - **Le taux de remplissage des sessions de formation.**
 
 ---
