@@ -101,6 +101,8 @@ Le système a été structuré en trois étapes clés :
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
 
+- **Calendly :** [Prenez rendez-vous pour un diagnostic](calendly.com/efficiencypot)
+
 
 
 
