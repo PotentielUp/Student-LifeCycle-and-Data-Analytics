@@ -39,10 +39,10 @@ Le système a été structuré en trois étapes clés :
      - *Anciens étudiants* (Informations et appréciations des apprenants ayant terminé leurs formations)
 
 4. **Module d'Analyse (Business Intelligence) :**
-   - Création de tableaux de bord (Dashboards) permettant de visualiser en temps réel :
+   - Création d'un tableaux de bord (Dashboard) permettant de visualiser en temps réel :
      - **Le classement des formations les plus demandées.**
      - **La segmentation par tranches d'âge des apprenants.**
-     - **Le taux de remplissage des sessions de formation.**
+     
 
 ---
 
@@ -101,7 +101,7 @@ Le système a été structuré en trois étapes clés :
 ## 📩 Besoin d'optimiser vos processus de données ?
 Je vous aide à transformer vos données brutes en leviers de croissance pour votre entreprise.
 
-- **Calendly :** [Prenez rendez-vous pour un diagnostic](calendly.com/efficiencypot)
+- **Calendly :** [Prendre rendez-vous pour un diagnostic](calendly.com/efficiencypot)
 
 
 
