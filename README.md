@@ -1,15 +1,15 @@
 
- 🎓 Student Lifecycle & Data Analytics : Optimisation du Flux d'Inscription et organisation
+ 🎓 Optimisation du Flux d'Inscription et organisation
 
 ## 🎯 Objectif du Projet
-Automatiser l'intégralité du processus d'inscription des apprenants pour une entreprise de formation, tout en transformant les données collectées en outils de décision stratégique (Business Intelligence).
+Automatiser l'intégralité du processus d'inscription des apprenants pour un établissement de formation, tout en transformant les données collectées en outils de décision stratégique (Business Intelligence).
 
 ---
 
 ## ❌ Le Problème (Avant)
-L'entreprise gérait un volume important de formations, mais son système était obsolète :
+L'établissement gérait un volume important de formations, mais son système était obsolète :
 - **Saisie manuelle fastidieuse :** Chaque inscription devait être recopiée manuellement dans une base de données, entraînant des erreurs de saisie et une perte de temps considérable.
-- **Angle mort stratégique :** Les données étaient stockées mais non exploitées. L'entreprise ne savait pas avec précision quelle formation était la plus demandée ni quel était le profil type de ses apprenants.
+- **Angle mort stratégique :** Les données étaient stockées mais non exploitées. Pas moyen de savoir avec précision et en temps réel quelles formations étaient les plus demandées ni quels étaient les profils types de ses apprenants.
 - **Lenteur administrative :** Le traitement des dossiers d'inscription prenait trop de temps, retardant l'accès des apprenants aux cours.
 
 ---
@@ -18,7 +18,7 @@ L'entreprise gérait un volume important de formations, mais son système était
 Mise en place d'un pipeline de données automatisé, de la capture à l'analyse.
 
 ### ⚙️ Le Workflow de Données
-Le système a été structuré en trois étapes clés :
+Le système a été structuré en quatre étapes clés :
 
 1. **Automatisation de l'Intake (Entrée) :**
    - Mise en place d'un formulaire d'inscription intelligent.
